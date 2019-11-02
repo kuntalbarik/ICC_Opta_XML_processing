@@ -1,5 +1,4 @@
 # ICC_Opta_XML_processing
-ICC opta xml processing script.
 1)C2 and C3 will be generated using match no
 2)First C2 ,then C3 will be processed.
 3)If C2 is dropped in inbox and not processed in 7 minutes, execution will stop
